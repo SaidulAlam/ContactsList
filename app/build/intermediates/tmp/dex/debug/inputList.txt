@@ -1,0 +1,4 @@
+E:\Dejan\13.03.15\ContactsList\app\build\intermediates\classes\debug
+E:\Dejan\13.03.15\ContactsList\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-e9c8d25046ed237a15dd4b091adc933df3ac6c69.jar
+E:\Dejan\13.03.15\ContactsList\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-1e147525bdf27680690c9aa0c70ac4c52b5e845c.jar
+E:\Dejan\13.03.15\ContactsList\app\build\intermediates\pre-dexed\debug\classes-f60dc31833b686ce9ce6f15848c12ce60fff4c7b.jar
